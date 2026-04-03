@@ -2,9 +2,9 @@
 Data analysis project exploring e-commerce sales, customer insights, and business performance through interactive dashboards. Dashboard project focused on analyzing online retail sales, customer trends, and profitability.
 
 Key Insights:
-Analyzed sales and profit trends across different time periods
-Identified top-performing product categories and customers
-Evaluated regional sales distribution and payment behavior
+1. Analyzed sales and profit trends across different time periods
+2. Identified top-performing product categories and customers
+3. Evaluated regional sales distribution and payment behavior
 
 Dashboard Features:
 KPI tracking for sales, profit, and order value
