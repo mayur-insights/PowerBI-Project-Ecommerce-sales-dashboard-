@@ -1,19 +1,19 @@
 # PowerBI-Project-Ecommerce-sales-dashboard-
 Data analysis project exploring e-commerce sales, customer insights, and business performance through interactive dashboards. Dashboard project focused on analyzing online retail sales, customer trends, and profitability.
 
-Key Insights
+Key Insights:
 Analyzed sales and profit trends across different time periods
 Identified top-performing product categories and customers
 Evaluated regional sales distribution and payment behavior
 
-Dashboard Features
+Dashboard Features:
 KPI tracking for sales, profit, and order value
 Monthly profit trend analysis
 Category-wise and sub-category performance
 Top customers and regional sales insights
 Interactive filters for dynamic data exploration
 
-Tools & Technologies
+Tools & Technologies:
 Power BI
 Excel
 
