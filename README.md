@@ -7,14 +7,14 @@ Key Insights:
 3. Evaluated regional sales distribution and payment behavior
 
 Dashboard Features:
-KPI tracking for sales, profit, and order value
-Monthly profit trend analysis
-Category-wise and sub-category performance
-Top customers and regional sales insights
-Interactive filters for dynamic data exploration
+1. KPI tracking for sales, profit, and order value
+2. Monthly profit trend analysis
+3. Category-wise and sub-category performance
+4. Top customers and regional sales insights
+5. Interactive filters for dynamic data exploration
 
 Tools & Technologies:
-Power BI
-Excel
+1. Power BI
+2. Excel
 
 ![image alt](https://github.com/mayur-insights/PowerBI-Project-Ecommerce-sales-dashboard-/blob/2c1c52c46f4a8b60490ab5fd145dc7f42619d6e9/E-commerce%20Sales%20%26%20Customer%20Insights%20Dashboard.png)
