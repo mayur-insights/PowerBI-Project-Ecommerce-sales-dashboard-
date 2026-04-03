@@ -7,7 +7,7 @@ Key Insights:
 3. Evaluated regional sales distribution and payment behavior
 
 Dashboard Features:
-1. KPI tracking for sales, profit, and order value
+1. KPI tracking for sales, profit, and Average order value
 2. Monthly profit trend analysis
 3. Category-wise and sub-category performance
 4. Top customers and regional sales insights
